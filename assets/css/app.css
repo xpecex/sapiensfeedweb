@@ -1,0 +1,18 @@
+body {
+    background-color: #22272C;
+    color: #FCFBF8;
+}
+p {
+    color: #d3d2ce;
+}
+.iconbox {
+
+}
+.descriptionbox {
+    color: #FCFBF8;
+    font-size: 1.2em;
+    padding: 20px;
+}
+.btnsbox {
+    margin-top: 20px;
+}
